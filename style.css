@@ -13,11 +13,7 @@ body {
   transition: background 0.3s, color 0.3s;
 }
 
-/* 🌙 Dark Mode */
-body.dark-mode {
-  background: #121212;
-  color: #f4f4f4;
-}
+
 
 /* 🟦 Navbar */
 header {
@@ -629,3 +625,4 @@ input:focus, textarea:focus {
   background: #ffa733;
   box-shadow: 0 0 15px rgba(255,152,0,0.6);
 }
+
